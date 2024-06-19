@@ -20,13 +20,13 @@ This app predicts the nature of the tweet into 6 Categories:
 * Not Cyberbullying
 """
 IMAGE_PATHS = {
-    "age": "statics/Age.png",
-    "ethnicity": "statics/Ethnicity.png",
-    "gender": "statics/Gender.png",
-    "other_cyberbullying": "statics/Other.png",
-    "religion": "statics/Religion.png",
-    "not_cyberbullying": "statics/not_cyber.png",
-    "twitter_logo": "statics/twitter.png"
+    "age": "Age.png",
+    "ethnicity": "Ethnicity.png",
+    "gender": "Gender.png",
+    "other_cyberbullying": "Other.png",
+    "religion": "Religion.png",
+    "not_cyberbullying": "not_cyber.png",
+    "twitter_logo": "twitter.png"
 }
 
 # Load and display logo
