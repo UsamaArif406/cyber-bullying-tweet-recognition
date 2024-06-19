@@ -4,3 +4,4 @@ nltk
 pandas
 scikit-learn
 tensorflow
+emoji
